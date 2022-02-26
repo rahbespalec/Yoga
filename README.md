@@ -1,3 +1,3 @@
 # Curriculum
-Currículo para o último bimestre de IW
-Para acessar o site, clique <a target="_blank" href="https://rahbespalec.github.io/Curriculum/">aqui</a>
+Currículo para o primeiro bimestre de IW II
+Para acessar o site, clique <a target="_blank" href=https://rahbespalec.github.io/Yoga/">aqui</a>
